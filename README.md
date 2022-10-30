@@ -1,6 +1,6 @@
 # Object-Oriented Programming (OOP)
 
-This project briefly explains Object-Oriented Programming (OOP) and documents the 4 basic principles of OOP with code examples in Java.
+This project briefly explains Object-Oriented Programming (OOP) and documents the 4 basic principles of OOP with code examples in Java *(in src folder)*.
 
 **OOP** = a programming paradigm based on the concept of objects (everything is an object)
 
